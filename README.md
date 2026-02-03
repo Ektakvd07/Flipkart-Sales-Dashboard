@@ -6,7 +6,7 @@ The project focuses on data visualization, KPI tracking, and exploratory sales a
 
 
 
-🎯 Objectives:
+**🎯 Objectives:**
 
 Monitor overall sales and revenue performance
 
@@ -20,7 +20,7 @@ Compare city-wise and category-wise sales distribution
 
 
 
-🧩 Dashboard Features:
+**🧩 Dashboard Features:**
 
 📈 Sales & Revenue KPIs
 
@@ -33,7 +33,7 @@ Compare city-wise and category-wise sales distribution
 
 
 
-🛠️ Tools & Technologies:
+**🛠️ Tools & Technologies:**
 
 Power BI – Dashboard creation & data modeling
 
@@ -45,7 +45,7 @@ DAX – Measures & calculated fields
 
 
 
-📊 Key KPIs Tracked:
+**📊 Key KPIs Tracked:**
 
 Total Sales Revenue
 
@@ -61,6 +61,6 @@ Category-wise Sales Contribution
 
 
 
-Screenshots/Demos
+**Screenshots/Demos**
 https://github.com/Ektakvd07/Flipkart-Sales-Dashboard/blob/main/Flipkart_sales_dashboard.png
 
