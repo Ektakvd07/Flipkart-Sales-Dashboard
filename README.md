@@ -59,3 +59,8 @@ Payment wise Sales Distribution
 
 Category-wise Sales Contribution
 
+
+
+Screenshots/Demos
+https://github.com/Ektakvd07/Flipkart-Sales-Dashboard/blob/main/Flipkart_sales_dashboard.png
+
